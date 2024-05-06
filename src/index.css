@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: hsl(0, 0%, 100%);
+  font-size: 16px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Overpass';
+  transition: 0.13s;
+}
